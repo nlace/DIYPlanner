@@ -5,6 +5,7 @@ I got fed up with the quality of the planners I've been buying lately. Especiall
 
 
 The idea is simple, give the script a start date and the number of days you would like and it will output a pdf file that you can print and cut.
+I have included some examples showing how to reorient the pages if dual sided printing is your thing.
 
 I designed this for use with the Staples ARC mini notebooks.
 
